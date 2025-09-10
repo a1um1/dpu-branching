@@ -1,5 +1,14 @@
 Thunggoen Lakchai 67111644
 
+การทำ Merge ทำได้หลายแบบ เช่น การใช้ CLI หรือ เปิด Pull Requests
+แต่เราจะทำแบบ CLI แบบ Fast Forward
+
+![FF](ff.png)
+การ Merge หลักๆ มี 3 แบบ
+- Fast Foward
+- Three Way merge
+- Squash Merge
+
 ```bash
 git checkout -b <name>
 ```
